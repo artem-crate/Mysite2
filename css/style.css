@@ -1,0 +1,38 @@
+header{
+  font-size: 36px;
+  color: orange;
+}
+ol{
+
+  color: white;
+  font-size: 25px;
+  list-style-type: none;
+}
+li{
+  color: blue;
+  list-style-type: none;
+  display: inline-block;
+  margin: 10px;
+
+}
+a{
+  color:orange
+  text-decoration: none;
+
+  padding: 10px 15px;
+  border: 1px solid black;
+  border-radius: 5px
+}
+a:hover{
+  background-color: black;
+  color: white;
+  font-size: 30px;
+  text-decoration: none;
+}
+h1{
+    color: orange;
+    font-size: 30px;
+}
+body{
+  background-image: url(https://static.wixstatic.com/media/687d49_c6fa5a72824841399bcd15a55e2f41bb.png)
+}
